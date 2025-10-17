@@ -7,7 +7,7 @@ Actualmente trabajo desarrollando scripts en Python para procesamiento de datos,
 ## 🔧 Tecnologías
 
 **Backend & Data:**
-- Python (POO, Pandas, scripting)
+- Python (POO, Pandas, Polars, PySpark, scripting)
 - MySQL, SQL
 - Flask, FastAPI *(learning)*
 
@@ -28,7 +28,7 @@ Actualmente trabajo desarrollando scripts en Python para procesamiento de datos,
 ## 🎯 Actualmente
 
 - Construyendo proyectos backend con Python.
-- Profundizando en Flask y FastAPI.
+- Profundizando en AWS, Google Apis, Flask y FastAPI.
 - Explorando automatización de procesos.
 - Mejorando prácticas de Clean Code.
 
