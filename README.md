@@ -36,7 +36,7 @@ Actualmente trabajo desarrollando scripts en Python para procesamiento de datos,
 
 - Email: ivanspy@protonmail.com
 - LinkedIn: [linkedin.com/in/ivansimeoni](https://linkedin.com/in/ivansimeoni)
-- Medium: [@ivanspy](https://medium.com/@ivanspy)
+- Medium: [@ivanspy](https://medium.com/@ivansimeoni)
 
 ---
 
